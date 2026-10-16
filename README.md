@@ -1,4 +1,4 @@
-# Kwisatz Bug Tracker
+# Bug Tracking and Issue Management System
 
 A modern, efficient bug tracking application designed to streamline software development workflows. This application provides a comprehensive solution for managing bugs, tracking their status, and collaborating with team members.
 
@@ -120,6 +120,17 @@ See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed instructions on how to deploy 
     - **`src/`**: Backend source code.
     - **`prisma/`**: Database schema and configuration.
 
+## Original Project and Attribution
+
+This project is based on the original Kwisatz Bug Tracker repository:
+
+[https://github.com/yuriiormson/kwisatz_bug_tracker](https://github.com/yuriiormson/kwisatz_bug_tracker)
+
+The original project and its applicable licence terms are acknowledged. Further modifications and contributions should be documented as they are implemented and tested.
+
+## My Contributions
+
+Add your own verified changes here as you implement them. Examples include additional validation, improved error handling, new filters, automated tests, or interface improvements.
 ## License
 
 This project is licensed under the ISC License.
